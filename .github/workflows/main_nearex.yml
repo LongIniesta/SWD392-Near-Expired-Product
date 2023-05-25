@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'NearEx'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_774084EBC87F49149D09AFE13CB058EF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C1CA2CB9D4C4EF283EC7228B059621A }}
           package: .
